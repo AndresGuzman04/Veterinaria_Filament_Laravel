@@ -33,7 +33,7 @@ npm install
 
 # Ejecutar migraciones y seeders
 
-php artisan migrate --seed
+php artisan migrate 
 
 # Compilar recursos de frontend
 
