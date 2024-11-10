@@ -30,9 +30,6 @@ composer install
 
 npm install
 
-# Generar la clave de la aplicación
-
-php artisan key:generate
 
 # Ejecutar migraciones y seeders
 
