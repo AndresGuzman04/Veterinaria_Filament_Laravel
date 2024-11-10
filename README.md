@@ -22,7 +22,7 @@ Este proyecto utiliza [Laravel](https://laravel.com/) como framework de backend 
    
 # Clona el repositorio
    git clone https://github.com/AndresGuzman04/Veterinaria_Filament_Laravel.git
-   cd veterinaria
+   cd Veterinaria_Filament_Laravel
 
 # Instalar dependencias de Composer y NPM
 
